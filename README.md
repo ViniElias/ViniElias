@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1> Salve! Me chamo Vinicius Elias! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<!--
-**ViniElias/ViniElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Faço Curso Técnico no Colégio Joseense
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/ViniElias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniElias&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniElias&layout=compact&langs_count=7&theme=yeblu"/>
+</div>
+  
+  ## 🛠 &nbsp;Tecnologias que estudo
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Vini-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Vini-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Vini-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
+ 
+  ## 🌎 &nbsp;Redes Sociais
+</div>
