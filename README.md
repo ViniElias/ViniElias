@@ -1,7 +1,7 @@
 <h1> Salve! Me chamo Vinicius Elias! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
-- 🔭 Faço Curso Técnico no Colégio Joseense
+- 🔭 Faço curso técnico de informática no Colégio Joseense
 
 
 <div align="center">
