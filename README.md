@@ -1,7 +1,7 @@
 <h1> Olá! Me chamo Vinicius Elias! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
-- 🔭 Sou técnico técnico de informática pelo Colégio Joseense, atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec.
+- 🔭 Sou técnico de informática pelo Colégio Joseense, atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec.
 
 
 <div align="center">
