@@ -2,13 +2,6 @@
 
 
 - 🔭 Sou técnico de informática pelo Colégio Joseense, atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec.
-
-
-<div align="center">
-  <a href="https://github.com/ViniElias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniElias&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniElias&layout=compact&langs_count=7&theme=yeblu"/>
-</div>
   
   ## 🛠 &nbsp;Tecnologias que estudo
   
