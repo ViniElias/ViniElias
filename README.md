@@ -5,7 +5,7 @@
   
   ## 🛠 &nbsp;Technologies I study:
   
-<div align="center">
+<div align="center" display="flex">
   <img alt="HTML" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
