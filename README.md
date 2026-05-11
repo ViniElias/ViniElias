@@ -5,7 +5,7 @@
   
   ## 🛠 &nbsp;Technologies I study:
   
-<p align="left">
+<div align="center">
   <img alt="HTML" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
@@ -44,4 +44,4 @@
 
   <img alt="PostgreSQL" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</p>
+</div>
