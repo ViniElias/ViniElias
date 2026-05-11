@@ -3,7 +3,7 @@
 
 - 🔭 I am an IT technician and programmer, currently studying Systems Analysis and Development at Fatec São José dos Campos - Prof. Jessen Vidal.
   
-  ## 🛠 &nbsp;Technologies I study:
+  ## 🛠 Technologies I study:
   
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
